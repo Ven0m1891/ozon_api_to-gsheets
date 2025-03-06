@@ -1,0 +1,24 @@
+{   
+    "ik_1":   {
+                    "google_account": "Имя файла с данными сервисного аккаунта гугл",
+                    "sheet": "Индентификатор гугл таблицы",
+                    "worksheet": "имя листа в гугл таблице"
+                },
+    
+    "ik_2":   {
+                    "google_account": "Имя файла с данными сервисного аккаунта гугл",
+                    "sheet": "Индентификатор гугл таблицы",
+                    "worksheet": "имя листа в гугл таблице"
+                },
+
+    "project1": {
+                    "head": {"Client-Id": "xxxxxxx", "Api-Key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"},
+                    "project": "ИП Иванов"
+                },
+
+    "project2": {
+                    "head": {"Client-Id": "xxxxxxx", "Api-Key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"},
+                    "project": "ИП Петров"                   
+                }
+}
+           
